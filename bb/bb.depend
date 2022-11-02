@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666856341 source:c:\users\windows 10\documents\bb\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666856690 source:c:\users\windows 10\desktop\dersler\programlama labaratuvarý\bb\main.c
+	<stdio.h>
+	<stdlib.h>
+
